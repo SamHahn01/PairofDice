@@ -23,7 +23,7 @@ public class PairofDice
     		num1 = die1.roll();
     		num2 = die2.roll();
     		
-    	if (num1 == 6 && num2 == 6) //check for box carsww
+    	if (num1 == 6 && num2 == 6) //check for box cars
     		boxCars++;
     	}
     	
