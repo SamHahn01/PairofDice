@@ -1,5 +1,5 @@
 /**
- * @(#)Die.java hgava
+ * @(#)Die.java
  * @author Sam Hahn
  * Represents one die (singular of dice) with faces showing values
  * between 1 and the number of faces on the die.
